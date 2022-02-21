@@ -32,7 +32,7 @@ This repository contains the Jupyter Notebooks and slides used in the Practicum 
 
 ## Powerpoint slides used in this workshop
 
-* [Introduction to Python](py_getting_started.pptx)
-* [Python Booleans, Conditionals, and Loops](py_loops.pptx)
-* [Python Functions](py_functions.pptx)
-* [Python Data Management with Pandas](py_data_mgmt.pptx)
+* [Introduction to Python](presentations/py_getting_started.pptx)
+* [Python Booleans, Conditionals, and Loops](presentations/py_loops.pptx)
+* [Python Functions](presentations/py_functions.pptx)
+* [Python Data Management with Pandas](presentations/py_data_mgmt.pptx)
